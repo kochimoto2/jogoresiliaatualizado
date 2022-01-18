@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Tahoma, sans-serif;
+    background-position: center;
+  }
+
+  body {
+    background: url("dcfundo.jpg") fixed;
+    background-size: cover;
+  }
+
+  .videogameover {
+    display: block;
+    margin:0 auto;
+    width: 600px;
+    height: 555px;
+    opacity: 90%;    
+    
+  }
+  .botaoinicio {
+    display: block;
+    margin: 0 auto;
+    width: 340px;  
+    font-size: 50px;
+    box-shadow: chartreuse;
+  }
